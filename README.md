@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OminousDude 
 - I have no freinds
 - 👀 I’m interested in makeing games
-- 🌱 I’m currently learning unity an AI
+- 🌱 I’m currently learning unity and AI
 - 💞️ I’m looking to collaborate on Unity games and stuff
 - 📫 How to reach me: discord "OminousDude#3593"
 
