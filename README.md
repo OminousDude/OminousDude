@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @OminousDude 
-- I have no freinds
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Unity games and stuff
-- 📫 How to reach me: discord "OminousDude#3593"
+Hi, I am probably working with transformers (:
+
+InternLM > Llama > Qwen > Gemma > Phi
+
+Discord: ominousdude
 
 <!---
 OminousDude/OminousDude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
