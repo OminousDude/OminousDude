@@ -1,6 +1,6 @@
 Hi, I am probably working with transformers (:
 
-InternLM > Llama > Qwen > Gemma > Phi
+InternLM > Llama > Mistral > Qwen > Gemma > Phi
 
 Discord: ominousdude
 
