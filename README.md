@@ -1,4 +1,4 @@
-Hi, I am probably working with transformers or stonks... or both (:
+Hi, I am probably working with transformers or stocks... or both (:
 
 InternLM > Llama > Mistral > Qwen > Gemma > Phi
 
