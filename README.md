@@ -1,6 +1,6 @@
 Hi, I am probably working with transformers or stocks... or both (:
 
-InternLM > Llama > Mistral > Qwen > Gemma > Phi
+InternLM > Qwen > Llama > Mistral > Gemma > Phi
 
 Discord: ominousdude
 
