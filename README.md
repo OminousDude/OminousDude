@@ -1,5 +1,5 @@
 Hi, I am probably working with transformers or stocks... or both (:
-Currently studying reinforced learning, predicting stocks with AI, and coding a Neural Net in Java from scratch
+Currently coding a Neural Network Engine in Java from scratch based on PyTorch with SIMD and multithreading capabilities.
 
 InternLM > Qwen > Llama > Mistral > Gemma > Phi
 
